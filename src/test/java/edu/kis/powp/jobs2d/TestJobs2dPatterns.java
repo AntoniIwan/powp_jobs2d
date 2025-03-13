@@ -81,7 +81,7 @@ public class TestJobs2dPatterns {
 	public static void main(String[] args) {
 		EventQueue.invokeLater(new Runnable() {
 			public void run() {
-				Application app = new Application("2d jobs Visio");
+        Application app = new Application("2d jobs Visio");
 				DrawerFeature.setupDrawerPlugin(app);
 				setupDefaultDrawerVisibilityManagement(app);
 
