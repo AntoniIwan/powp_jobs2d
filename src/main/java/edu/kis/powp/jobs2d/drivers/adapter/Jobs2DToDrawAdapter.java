@@ -36,6 +36,6 @@ public class Jobs2DToDrawAdapter extends DrawPanelController implements Job2dDri
 
 	@Override
 	public String toString() {
-		return "@Q!$!@$!#@$(*#@&Q(%^*#@";
+		return "Straight line drawing";
 	}
 }
